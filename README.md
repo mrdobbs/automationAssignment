@@ -2,7 +2,7 @@
 # To run this test: after following the setup steps listed below and downloading LevelsBeyondUnitTest.py run:
 #  "python LevelsBeyondUnitTest.py"
 # the set up for the solution for this assignment involves installying python, selenium, and chromedriver
-# the Chrome Browser and the latest JRE are prerequisites
+# the latest Chrome Browser and latest JRE are prerequisites
 #Step 1: Install Python 3.52 from python.org/download
 #
 #Step 2: Make Sure Pip is up to date 
